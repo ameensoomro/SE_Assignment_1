@@ -5,3 +5,6 @@ venv/
 .env
 *.db
 *.sqlite
+
+# Task 2 API keys
+Task_2/api_keys.json
